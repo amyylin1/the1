@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: Amy Ying Lin 
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -22,16 +22,16 @@ role: Aspiring statistican, trained in Neuroscience and Pharmacology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hunter College      
-    url: https://www.stanford.edu/
+    url: https://hunter-graduate.catalog.cuny.edu/departments/MATH-HTR/overview
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mathmatician
+bio: Aspiring Statistican, formally trained as Neuroscientist
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ying.lin70@myhunter.cuny.edu'
+    url: ying.lin70@myhunter.cuny.edu
     label: E-mail Me
   # - icon: brands/x
     # url: https://twitter.com/GetResearchDev
