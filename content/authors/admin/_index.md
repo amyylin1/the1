@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Aspiring statistican, trained in Neuroscience and Pharmacology
 
 # Organizations/Affiliations to show in About widget
 organizations:
