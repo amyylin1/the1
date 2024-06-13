@@ -50,8 +50,8 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-Author's website URL
-website: "https://amyylin1.github.io/cv/"
+# Author's website URL
+# website: "https://amyylin1.github.io/cv/"
 ---
 
 Interesting in sci
