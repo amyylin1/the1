@@ -6,8 +6,8 @@ title:      Amy Ying Lin
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Lin 
-last_name: Ying
+first_name: Amy (Ying)
+last_name: Lin 
 
 # Status emoji
 status:
@@ -31,15 +31,15 @@ bio: Aspiring Statistican, trained as a Pharmacologist,  Neuroscientist
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ying.lin70@myhunter.cuny.edu'
+    url: 'mailto:ying.lin70@myhunter.cuny.edu'
     label: E-mail Me
-  # - icon: brands/x
+  # - icon: 
     # url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-    # url: https://www.instagram.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: github
+    url: https://github.com/amyylin1
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
@@ -50,8 +50,8 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Author's website URL
-# website: ""
+Author's website URL
+website: "https://amyylin1.github.io/cv/"
 ---
 
 Interesting 
