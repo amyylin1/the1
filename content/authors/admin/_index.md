@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amy Ying Lin 
+title:      Amy Ying Lin 
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -25,13 +25,13 @@ organizations:
     url: https://hunter-graduate.catalog.cuny.edu/departments/MATH-HTR/overview
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aspiring Statistican, formally trained as Neuroscientist
+bio: Aspiring Statistican, trained as a Pharmacologist,  Neuroscientist
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: ying.lin70@myhunter.cuny.edu
+    url: 'ying.lin70@myhunter.cuny.edu'
     label: E-mail Me
   # - icon: brands/x
     # url: https://twitter.com/GetResearchDev
@@ -43,15 +43,15 @@ profiles:
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  # - icon: rss
+    # url: ./post/index.xml
+    # label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Author's website URL
-website: ""
+# website: ""
 ---
 
 Interesting 
