@@ -54,4 +54,4 @@ Author's website URL
 website: "https://amyylin1.github.io/cv/"
 ---
 
-Interesting 
+Interesting in sci
