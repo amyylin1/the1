@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Aspiring statistican, trained in Neuroscience and Pharmacology
+role:  Statistican, trained in Neuroscience and Pharmacology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-# website: "https://amyylin1.github.io/cv/"
+website: "https://amyylin1.github.io/cv/"
 ---
 
-Interesting in sci
+Interesting in statistic modeling
